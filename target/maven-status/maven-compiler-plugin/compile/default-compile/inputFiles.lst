@@ -1,0 +1,7 @@
+/home/giuseppe/git/inclosec/inclosec_anomaly_detection/src/main/java/net/innovery/inclosec_anomaly_detection/entity/SessionEntity.java
+/home/giuseppe/git/inclosec/inclosec_anomaly_detection/src/main/java/net/innovery/inclosec_anomaly_detection/controller/AnalyzerController.java
+/home/giuseppe/git/inclosec/inclosec_anomaly_detection/src/main/java/net/innovery/inclosec_anomaly_detection/util/ElasticUtil.java
+/home/giuseppe/git/inclosec/inclosec_anomaly_detection/src/main/java/net/innovery/inclosec_anomaly_detection/elastic/ApartmentSearchRepository.java
+/home/giuseppe/git/inclosec/inclosec_anomaly_detection/src/main/java/net/innovery/inclosec_anomaly_detection/InclosecAnomalyDetection.java
+/home/giuseppe/git/inclosec/inclosec_anomaly_detection/src/main/java/net/innovery/inclosec_anomaly_detection/springData.java
+/home/giuseppe/git/inclosec/inclosec_anomaly_detection/src/main/java/net/innovery/inclosec_anomaly_detection/elastic/EsConfig.java
